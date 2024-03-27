@@ -6,7 +6,6 @@ The Tuwaiq Talent Predictor is a machine learning tool designed to predict the l
 ## Features
 - **Student Success Prediction:** Utilizes historical student data and program details to predict the completion probability.
 - **Major Analysis:** Examines the impact of different majors on student outcomes.
-- **Personalized Insights:** Generates personalized reports for each student, highlighting areas of strength and potential challenges.
 
 ## Getting Started
 
