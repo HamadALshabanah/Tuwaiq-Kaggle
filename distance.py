@@ -68,9 +68,6 @@ cities_distances_from_riyadh['بحرة'] = 829.66
 
 
 
-
-
-
 # Function to get distance from Riyadh
 def get_distance_from_riyadh(city_name):
     """
